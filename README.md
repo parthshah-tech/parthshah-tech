@@ -14,7 +14,7 @@ Currently deep in **GSoC 2027 prep** (Apache Airflow, ML4SCI, HPX, Julia Languag
 
 **[WorkflowIQ](https://github.com/parthshah-tech/WorkflowIQ)** — Temporal-based workflow orchestration project built during my PS-I internship at Prismberry Technologies: FastAPI backend, real e-commerce order pipeline, and a reliability test suite covering five failure scenarios.
 
-**[Calibrated-RAG]([https://github.com/parthshah-tech/calibrated-rag])** — A document question-answering app that tells you how much to trust its retrieval. It searches your documents with two methods at once (embedding search and BM25 keyword search), merges them, and writes a cited answer.
+**[Calibrated-RAG](https://github.com/parthshah-tech/calibrated-rag)** — A document question-answering app that tells you how much to trust its retrieval. It searches your documents with two methods at once (embedding search and BM25 keyword search), merges them, and writes a cited answer.
 
 ---
 
