@@ -8,7 +8,7 @@ Currently deep in **GSoC 2027 prep** (Apache Airflow, ML4SCI, HPX, Julia Languag
 
 ### Building right now
 
-**Quickdraw** *(repo coming soon)* — local-first hybrid search tool for personal files. Hand-rolled BM25, HNSW, and RRF fusion in Rust, with an `egui` UI.
+**[Quick Draw](https://github.com/parthshah-tech/quickdraw)**— local-first hybrid search tool for personal files. Hand-rolled BM25, HNSW, and RRF fusion in Rust, with an `egui` UI.
 
 **[Ghost Runs](https://github.com/parthshah-tech/quickdraw)** — off-ball run quality model for football, extending pitch control (Spearman-style) with orientation-weighted defender blind-spot discounting fused into an OBSO-style decision-quality score.
 
